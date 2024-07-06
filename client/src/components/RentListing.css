@@ -1,0 +1,15 @@
+.rent {
+ 
+
+}
+.test {
+    width: 100%;
+}
+.renting {
+  display: flex;
+  border: 1px solid #000;
+  width: 1300px;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #fff;
+}
